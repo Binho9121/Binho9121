@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Fabio Higino 
 
-<!--
-**Binho9121/Binho9121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Possuo formação superior em Gestão de Recursos Humanos e Pós graduação em Gestão de Energias Renovaveis 
+- 🌱 Estudando Big Data na Fatec / HTML / CSS / Javascript / Python
+- 💻 Em busca de trabalho e novos projetos
 
-Here are some ideas to get you started:
+@@ -1,11 +1,8 @@
+<p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1 align="center">Olá! Tudo bem? 😃️</h1>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Fabio Higino</i></a> eu estudo Desenvolvimento Web na <a href="https://www.b7web.com.br/"><i>B7Web</i></a>. 😃️
+  <p align="center"> Sou apaixonado por tecnologia, futebol, culinária e minha família 💻⚽👩‍🍳👨‍👩‍👧</span>
+  <p align="center"> Possuo formação superior em Gestão de Recursos Humanos e Pós graduação em Gestão de Energias Renovaveis 🎓</span>
+  <p align="center"> Sou estudante de Big Data na Fatec, estudo HTML / CSS / Javascript / Python 📚👨‍🎓</span>
+  <p align="center"> Estou em busca de trabalho e novos projetos 👨‍🏭💻</span>
+  </div>
